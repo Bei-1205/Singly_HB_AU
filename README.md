@@ -8,3 +8,6 @@ PDB survey for Singly H-bond AU bps in the PDB
 
 ## RNA_AU_single_Hbond_PSE.zip
 ### This zip file contains all the structures (pse files) of singly H-bonded AU bps.
+
+## survey_pdb_search.ipynb
+### This notebook contains the code to process and analyze the singly H-bonded AU bp from the survey results (RNA_AU_single_Hbond_X_ray_NMR_final.csv).
